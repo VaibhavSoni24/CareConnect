@@ -39,8 +39,5 @@ CareConnect is an AI-powered healthcare platform designed to enhance patient car
 - Tanishq Garg
 - Tilak Khatoria
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
 🌟 *CareConnect – Your AI-Powered Healthcare Companion!*
